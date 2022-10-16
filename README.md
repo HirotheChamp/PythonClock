@@ -9,14 +9,6 @@
 
 
 
-## Table of Contents
-* [Background](#background)
-* [Technologies Used](#technologies-used)
-
-* [Contact](#contact)
-
-<hr></hr>
-
 ## Background
 A website showcasing me and some of my work. This project is simply a personal website regarding who I am and what I do. Included are coding projects mainly done using the React library.  
 
